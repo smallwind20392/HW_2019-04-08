@@ -4,7 +4,7 @@
 public class Cylinder_volume {
 
     public static void main(String[] args) {
-        double PI = 3.14;
+        double PI = 3.1415926;
         Scanner scn = new Scanner(System.in);
         float r = scn.nextFloat();
         float h = scn.nextFloat();
